@@ -33,7 +33,7 @@ Age : day (1~365)
 Concrete compressive strength measured in MPa
 # Objective: 
 Modeling of strength of high performance concrete using Machine Learning 
-# Steps and tasks:
+# Steps and Tasks:
 1. Deliverable -1 (Exploratory data quality report reflecting the following) 
 
 a. Univariate analysis 
